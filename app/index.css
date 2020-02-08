@@ -1,6 +1,17 @@
-body {
-	background-color: #f7e2d3;
-	color: #6639d2;
-	font-size: 20rem;
+.container {
+	max-width: 90%;
+	margin: auto;
+}
+
+.navbar {
+	padding: 2rem 0;
+	background-color: #a3b6d0;
+}
+
+.search,
+.card {
+	display: flex;
+	justify-content: center;
+	padding: 2rem 0;
 }
 
