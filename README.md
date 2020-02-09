@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://ronca85.github.io/github-search-marko-ronik/">View on github pages</a>
+	<a href="https://www.github.com/ronca85/github-search-marko-ronik/">View on github</a>
 </p>
 <h1 align="center">Github search</h1>
 <p align="center">Search for a github profile by username and display the associated repo list</p>
